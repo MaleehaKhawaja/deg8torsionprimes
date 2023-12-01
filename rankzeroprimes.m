@@ -230,7 +230,7 @@ a := 3;
 time
 for d := 1 to 8 do
   assert IsEmpty(surviving_places(41, a, d));
-end for; // ~ 45 min
+end for; // 
 printf "OK!\n";
 
 printf "\np = 47 (takes about ): ";
