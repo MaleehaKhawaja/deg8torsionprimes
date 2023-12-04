@@ -233,7 +233,7 @@ for d := 1 to 8 do
 end for; // 
 printf "OK!\n";
 
-printf "\np = 47 (takes about ): ";
+printf "\np = 47 (takes about 4.5 minutes): ";
 a := 3;
 time
 for d := 1 to 8 do
@@ -241,7 +241,7 @@ for d := 1 to 8 do
 end for; 
 printf "OK!\n";
 
-printf "\np = 59 (takes about ): ";
+printf "\np = 59 (takes about 1 hour): ";
 a := 3;
 time
 for d := 1 to 8 do
@@ -249,7 +249,7 @@ for d := 1 to 8 do
 end for; 
 printf "OK!\n";
 
-printf "\np = 71 (takes about ): ";
+printf "\np = 71 (takes about 7 hours): ";
 a := 3;
 time
 for d := 1 to 8 do
