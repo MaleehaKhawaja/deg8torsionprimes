@@ -1,5 +1,10 @@
 load "X1p.m";
 
+//The following code supports 
+//the proof of Lemma 2.5. 
+//The code is a slight modification of Michael Stoll's code
+//which can be found at https://www.mathe2.uni-bayreuth.de/stoll/magma/DKSS/DKSS.magma
+
 // For p = 31, 41, 47, 59, 71, check that all positive-rank simple factors
 // of J_1(p) occur in J_0(p).
 
