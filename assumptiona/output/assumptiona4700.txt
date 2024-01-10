@@ -1,0 +1,20 @@
+Magma V2.25-4     Tue Dec 19 2023 17:51:22 on magma-somas [Seed = 3408885652]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "assumptiona.m"
+p = 4603: success with T_2 and q = 1 (1883.580 sec)
+p = 4621: success with T_2 and q = 1 (1793.930 sec)
+p = 4637: success with T_2 and q = 1 (1058.440 sec)
+p = 4639: success with T_3 and q = 1 (2275.530 sec)
+p = 4643: success with T_2 and q = 1 (1020.630 sec)
+p = 4649: success with T_3 and q = 3 (2019.640 sec)
+p = 4651: success with T_2 and q = 1 (1068.810 sec)
+p = 4657: success with T_5 and q = 3 (5115.790 sec)
+p = 4663: success with T_3 and q = 1 (2085.050 sec)
+p = 4673: success with T_3 and q = 3 (2319.640 sec)
+p = 4679: success with T_2 and q = 1 (1080.680 sec)
+p = 4691: success with T_2 and q = 1 (1075.760 sec)
+[]
+5 3
+
+Total time: 22797.560 seconds, Total memory usage: 1143.44MB
