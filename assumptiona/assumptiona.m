@@ -110,4 +110,5 @@ function check_kam0(plist, l, d)
   return fail, max_n, max_q;
 end function;
 
-check_kam0(PrimesInInterval(29,1000), 2, 8); //We executed this function in several parallel computations for all primes 23<p<6724.
+check_kam0(PrimesInInterval(29,1000), 2, 8); //We executed this function in several parallel computations for all primes 23<p<6724; 
+                                             //see the output folder for the output files.
