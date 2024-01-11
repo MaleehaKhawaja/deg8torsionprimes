@@ -251,7 +251,7 @@ function surviving_places(p, a, d)
   return result, places;
 end function;
 
-// Check that no places of degree <= 7 survive for p = 59, 61, 67, 73
+// Check that no places of degree <= 7 survive for p = 43, 61, 67, 73
 // and a suitable a.
 
 // We use a = 3 in all cases. This makes the degrees of the positive
@@ -261,7 +261,7 @@ printf "\np = 43 (takes about 40 min): ";
 a := 3;
 time
 for d := 1 to 8 do
-  assert IsEmpty(surviving_places(59, a, d));
+  assert IsEmpty(surviving_places(43, a, d));
 end for;
 printf "OK!\n";
 
