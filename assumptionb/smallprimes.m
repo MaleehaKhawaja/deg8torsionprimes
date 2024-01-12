@@ -257,7 +257,7 @@ end function;
 // We use a = 3 in all cases. This makes the degrees of the positive
 // and negative parts of the resulting divisors somewhat smaller.
 
-printf "\np = 43 (takes about 40 min): ";
+printf "\np = 43 (takes a couple of minutes): ";
 a := 3;
 time
 for d := 1 to 8 do
