@@ -112,7 +112,7 @@ function kamienny(p, d)
   return false, _, _, _;
 end function;
 
-lst:=PrimesInInterval(31, 137) cat [139, 151, 157, 191, 223]; //29 verified separately in Lemma 2.3
+lst:=PrimesInInterval(31, 137) cat [149, 157, 163, 193, 431]; //29 verified separately in Lemma 2.3
 
 time for p in lst 
   do assert kamienny(p, 8);
