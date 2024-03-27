@@ -1,0 +1,33 @@
+Magma V2.25-4     Wed Mar 27 2024 14:23:46 on magma-somas [Seed = 1513624897]
+Type ? for help.  Type <Ctrl>-D to quit.
+p = 31: success with index(H) = 15, T_2 and q = 5 (6.350 sec)
+p = 37: success with index(H) = 18, T_2 and q = 7 (7.690 sec)
+p = 41: success with index(H) = 10, T_6 and q = 3 (4.310 sec)
+p = 43: success with index(H) = 7, T_2 and q = 11 (0.720 sec)
+p = 47: success with index(H) = 23, T_2 and q = 3 (3.120 sec)
+p = 53: success with index(H) = 13, T_2 and q = 3 (1.270 sec)
+p = 59: success with index(H) = 29, T_2 and q = 3 (14.350 sec)
+p = 61: success with index(H) = 3, T_2 and q = 5 (0.600 sec)
+p = 67: success with index(H) = 3, T_2 and q = 3 (0.240 sec)
+p = 71: success with index(H) = 5, T_2 and q = 3 (0.510 sec)
+p = 73: success with index(H) = 6, T_5 and q = 3 (3.580 sec)
+p = 79: success with index(H) = 3, T_2 and q = 5 (0.340 sec)
+p = 83: success with index(H) = 41, T_2 and q = 3 (283.710 sec)
+p = 89: success with index(H) = 4, T_3 and q = 3 (1.450 sec)
+p = 97: success with index(H) = 3, T_7 and q = 3 (1.160 sec)
+p = 101: success with index(H) = 5, T_2 and q = 3 (1.970 sec)
+p = 103: success with index(H) = 3, T_2 and q = 7 (0.550 sec)
+p = 107: success with index(H) = 53, T_2 and q = 3 (2282.470 sec)
+p = 109: success with index(H) = 2, T_2 and q = 5 (0.550 sec)
+p = 113: success with index(H) = 4, T_3 and q = 3 (2.430 sec)
+p = 127: success with index(H) = 3, T_3 and q = 3 (0.730 sec)
+p = 131: success with index(H) = 5, T_2 and q = 3 (2.090 sec)
+p = 137: success with index(H) = 2, T_3 and q = 3 (0.620 sec)
+p = 149: success with index(H) = 2, T_2 and q = 3 (0.830 sec)
+p = 157: success with index(H) = 2, T_2 and q = 3 (0.950 sec)
+p = 163: success with index(H) = 3, T_2 and q = 3 (1.310 sec)
+p = 193: success with index(H) = 2, T_5 and q = 3 (1.760 sec)
+p = 431: success with index(H) = 5, T_5 and q = 3 (1041.570 sec)
+Time: 3667.230
+
+Total time: 3667.900 seconds, Total memory usage: 52222.78MB
